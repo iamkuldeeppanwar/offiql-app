@@ -1,0 +1,29 @@
+.Header {
+  display: grid;
+  grid-template-columns: 10% 10% 10%;
+  justify-content: flex-end;
+  background-color: #171a21;
+  height: 43px;
+}
+
+.grid-item {
+  padding: 10px;
+  float: right;
+}
+
+.icons {
+  font-weight: 500;
+  font-size: 20px;
+  color: #e0ecff;
+}
+
+.icons_name {
+  width: 49px;
+  height: 15px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 17px;
+  margin-left: 10px;
+}

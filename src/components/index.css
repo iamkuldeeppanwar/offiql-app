@@ -1,0 +1,122 @@
+.main {
+  background: #0b0e15;
+}
+
+.title_btn {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.btn {
+  float: right;
+  margin-top: 30px;
+  margin-right: 50px;
+  width: 137px;
+  height: 52px;
+  background: #0070e7;
+  border-radius: 12px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.title {
+  margin-top: 30px;
+  margin-left: 50px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 22px;
+  font-family: "Inter";
+  font-style: normal;
+}
+
+.heading {
+  width: 815px;
+  height: 148px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 87px;
+  margin: 20px auto;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  text-align: center;
+}
+
+.heading > p {
+  text-align: center;
+}
+
+.email_photo_icon {
+  width: 750px;
+  height: 500px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.get_start_btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.get_start_btn > button {
+  padding: 12px 11px;
+  gap: 10px;
+  width: 199px;
+  height: 70px;
+  background: #0070e7;
+  border-radius: 12px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Ai_framwork {
+  height: 804px;
+  background: #1c232b;
+  margin-top: 71px;
+}
+
+.Ai_framwork > div > img {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.Ai_work {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-around;
+}
+
+.Work > img {
+  margin-left: 100px;
+  margin-top: 70px;
+  width: 536px;
+  height: 130px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #e0ecff;
+}
+
+.Ai_icon {
+  width: 725px;
+  height: 699px;
+  margin-right: 100px;
+}
